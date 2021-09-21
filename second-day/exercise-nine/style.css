@@ -1,0 +1,20 @@
+#big {
+    width: 85%;
+}
+
+.small {
+    margin-top: 20px;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    border: 1px solid black;
+}
+
+.yellow-box {
+    background-color: yellow;
+    margin-bottom: 25px;
+}
+
+.green-box {
+    background-color: green;
+}

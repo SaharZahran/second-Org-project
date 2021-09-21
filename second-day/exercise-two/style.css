@@ -1,0 +1,25 @@
+    * {
+        margin: 30px 5px;
+    }
+    
+    h1 {
+        color: coral;
+    }
+    
+    h2 {
+        float: right;
+        font-family: "Gill Sans", sans-serif;
+    }
+    
+    #one {
+        font-family: Arial, Helvetica, sans-serif
+    }
+    
+    div {
+        clear: both;
+    }
+    
+    #two {
+        float: right;
+        font-family: 'Courier New', Courier, monospace;
+    }

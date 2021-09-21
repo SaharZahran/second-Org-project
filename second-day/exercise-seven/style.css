@@ -1,0 +1,37 @@
+* {
+    line-height: 30px;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+p::first-line {
+    color: blue;
+}
+
+p a {
+    color: rgb(245, 162, 129);
+}
+
+#mark {
+    background-color: yellow;
+    color: rgb(150, 70, 70);
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.blue-text {
+    color: blue;
+}
+
+li a {
+    color: red;
+    font-weight: bold;
+}
+
+.without {
+    list-style-type: none;
+}

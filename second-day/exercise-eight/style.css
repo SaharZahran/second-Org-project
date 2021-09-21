@@ -1,0 +1,14 @@
+#big {
+    width: 50%;
+}
+
+.small {
+    width: 15%;
+    display: inline-block;
+    background-color: red;
+    color: white;
+    text-align: center;
+    vertical-align: top;
+    height: 25px;
+    border: 1px solid black;
+}

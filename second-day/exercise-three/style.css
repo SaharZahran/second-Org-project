@@ -1,0 +1,12 @@
+* {
+    font-weight: bold;
+}
+
+.green {
+    color: rgb(25, 167, 25);
+}
+
+span.blue {
+    color: blue;
+    text-indent: 50px;
+}

@@ -1,0 +1,18 @@
+body {
+    background-color: rgba(226, 40, 226, 0.616);
+}
+
+.gray-box {
+    width: 200px;
+    display: inline-block;
+    margin: 10px;
+    background-color: rgb(240, 232, 232);
+}
+
+.transparent-box {
+    border: 3px solid black;
+    border-left: none;
+    margin-left: 10px;
+    height: 100px;
+    overflow: auto;
+}

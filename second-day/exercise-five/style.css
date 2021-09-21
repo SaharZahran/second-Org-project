@@ -1,0 +1,33 @@
+body {
+    background-color: rgba(241, 198, 182, 0.39);
+}
+
+article {
+    width: 70%;
+    background-color: #fff;
+    border: 1px solid black;
+    padding: 5px 20px;
+    margin: 20px 5px;
+}
+
+.orange {
+    background-color: coral;
+    font-weight: bold;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+#second {
+    border-style: dashed;
+    border-width: 2px;
+}
+
+#second p {
+    border: 2px dashed red;
+}
+
+#third {
+    color: purple;
+}

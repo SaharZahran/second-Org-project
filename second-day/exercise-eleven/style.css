@@ -1,0 +1,12 @@
+    body {
+        position: relative;
+    }
+    
+    img {
+        position: absolute;
+        width: 200px;
+        height: 400px;
+        top: 0;
+        right: 10px;
+        border: 1px solid black;
+    }

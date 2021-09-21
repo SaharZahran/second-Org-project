@@ -1,0 +1,45 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgba(255, 255, 0, 0.247);
+}
+
+#page {
+    margin: 0 150px;
+    display: flex;
+}
+
+header {
+    background-color: rgb(223, 223, 80);
+    margin: 0 150px;
+    height: 100px;
+}
+
+section {
+    background-color: #fff;
+    padding: 30px 15px;
+    width: 70%;
+}
+
+aside {
+    background-color: rgba(247, 243, 243, 0.801);
+    flex-grow: 1;
+}
+
+aside ul {
+    list-style-position: inside;
+    padding: 50px;
+}
+
+footer {
+    background-color: gray;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    margin: 0;
+    padding-bottom: 20px;
+}
