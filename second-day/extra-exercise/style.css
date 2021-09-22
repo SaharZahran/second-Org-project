@@ -1,0 +1,53 @@
+    * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+    
+    body {
+        background-color: rgb(38, 75, 75);
+    }
+    
+    ul {
+        margin: 100px 15%;
+        border: 1px solid black;
+        border-radius: 8px;
+        width: fit-content;
+    }
+    
+    li {
+        list-style-type: none;
+        display: inline-block;
+        padding: 20px;
+        color: white;
+        background-color: rgb(38, 75, 75);
+    }
+    
+    .box:hover {
+        cursor: pointer;
+        border-radius: 8px;
+    }
+    
+    .green-box:hover {
+        background-color: green;
+    }
+    
+    ul:hover {
+        background-color: rgb(38, 75, 75);
+    }
+    
+    .red-box:hover {
+        background-color: red;
+    }
+    
+    .blue-box:hover {
+        background-color: blue;
+    }
+    
+    .pink-box:hover {
+        background-color: pink;
+    }
+    
+    .orange-box:hover {
+        background-color: orange;
+    }
